@@ -3997,7 +3997,7 @@ form textarea:required:valid {
 }
 
 .tauthor__name {
-  font: normal 700 2.4rem/1.05 var(--_font-accent);
+  font: normal 700 2.2rem/1.05 var(--_font-accent);
   color: var(--t-bright);
 }
 @media only screen and (min-width: 768px) {
